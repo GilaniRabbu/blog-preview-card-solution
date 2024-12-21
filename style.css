@@ -25,7 +25,7 @@ body {
   background: var(--white);
   border: 1px solid var(--black);
   padding: 24px;
-  border-radius: 12px;
+  border-radius: 14px;
   overflow: hidden;
   box-shadow: 9px 9px 0 var(--black);
 }
